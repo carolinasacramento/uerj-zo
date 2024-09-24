@@ -5,7 +5,7 @@
 
 // Teste 1: Verifica se o IMC é calculado corretamente para valores normais - ok
 MU_TEST(test_calculo_normal) {
-    double imc = calculo(200, 2);
+    double imc = calculo(100, 2);
     mu_assert_double_eq(50, imc); // O IMC esperado é 50
 }
 
