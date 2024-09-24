@@ -27,4 +27,4 @@ jobs:
 
     # Executar o teste
     - name: Run unit tests
-      run: ./teste
+      run: ./teste.exe
