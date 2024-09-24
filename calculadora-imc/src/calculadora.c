@@ -4,7 +4,7 @@
 #include "calculadora.h" 
 int main() {
     double peso, altura, imc;
-    printf("Digite o peso em kg: ");
+    printf("Digite o peso em kg, por favor: ");
     scanf("%lf", &peso);
     printf("Digite a altura em metros: ");
     scanf("%lf", &altura);
