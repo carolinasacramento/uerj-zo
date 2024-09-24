@@ -1,4 +1,4 @@
-/*ARQUIVO CALCULADORA.H */
+/*ARQUIVO CALCULADORA.H*/
 
 
 // Cálculo do IMC: chamada
