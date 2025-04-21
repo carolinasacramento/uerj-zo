@@ -6,7 +6,7 @@ int main() {
     double peso, altura, imc;
     printf("Digite o peso em kg, por favor: ");
     scanf("%lf", &peso);
-    printf("Digite a altura em metros: ");
+    printf("Digite a altura em metros, por favor: ");
     scanf("%lf", &altura);
     imc=calculo(peso,altura);
     if (imc != -1)
